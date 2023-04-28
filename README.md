@@ -15,3 +15,5 @@ Technologies:
 - BEM
 
 [DEMO LINK](https://partnersinbahamas.github.io/museum-landing/)
+
+[Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/НАМУ-(Edit)?node-id=0-1&t=KzrUzwOMoDwC7IOO-0)
